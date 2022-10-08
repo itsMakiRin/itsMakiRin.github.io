@@ -1,0 +1,32 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../assets/images/Background.jpg");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+}
+
+.eggContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.siteTitle {
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+}
+
+.eggInformation {
+  font-size: xx-large;
+  margin-top: -300px;
+}
